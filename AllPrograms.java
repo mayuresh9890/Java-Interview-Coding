@@ -35,7 +35,7 @@ class Employee {
     }
 }
 
-public class All {
+public class AllPrograms {
     public static void main(String[] args) {
         //Q1) How do you reverse a string in Java?
         //reverseString();
